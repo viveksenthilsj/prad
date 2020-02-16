@@ -1,0 +1,1 @@
+$('#galaxyIframe').contents().find('li.ACTION-export.TARGET-CSV').click()
